@@ -1,0 +1,31 @@
+*{ font-family: sans-serif;}
+
+.inputField { background-color: rgb(252, 221, 227);
+    font-size: 24px;
+        border: black solid 2px ;
+        margin-bottom: 10px;
+    border-radius: 10px ;
+    width:600px;
+    height: 100px;
+    margin: 20px;
+    ;
+    }
+
+
+    #nameField { background-color: rgb(148, 203, 254) ; }
+
+    
+  
+
+input { background-color: rgb(242, 242, 242);}
+
+.Title { text-align: center;
+background-color: pink;
+border: black solid 3px ;
+padding: 20px;
+border-radius: 10px;
+
+}
+    
+
+/* top , left , right, bottom */
